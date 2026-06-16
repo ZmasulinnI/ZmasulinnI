@@ -70,11 +70,3 @@
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-### Избранные проекты
-
-- **Project 1** — краткое описание
-- **Project 2** — краткое описание
-- **Project 3** — краткое описание
