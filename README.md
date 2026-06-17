@@ -63,10 +63,10 @@
   <a href="https://github.com/ZmasulinnI">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/thepararam">
     <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vlad-poroshin@mail.ru">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
